@@ -36,12 +36,7 @@ void setup () {
   enemyY=floor(random(50,421));
   treasureX=floor(random(0,601));
   treasureY=floor(random(50,421));
-  
-  
-  //
-  
-
-  
+ 
 }
 
 void draw() {
